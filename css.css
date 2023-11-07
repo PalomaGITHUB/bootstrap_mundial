@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+.container-xl{
+    background-color: rgb(180, 255, 177);
+    border-radius: 10px;
+}
+.row{
+    margin-bottom: 20px;
+}
+.col-3{
+    background-color: rgb(220, 255, 212);
+    
+}
+#grupo{
+    background-color: rgb(16, 119, 38);
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+}
+img{
+    width: 37px;
+    height: 25px;
+}
+#puntos{
+    font-weight: bold;
+    font-size: 17px;
+    color:rgb(0, 34, 3);
+}
+#pais{
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(41, 41, 41);
+}
